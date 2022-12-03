@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 
 # Recent Activities
 <p>
-  <a href="https://github.com/seiya-tagami/github-readme-stats">
+  <a href="">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="158px"/>
   </a>
-  <a href="https://github.com/seiya-tagami/github-readme-stats">
+  <a href="">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" />
   </a>
 </p>
+---
 
 # Languages and Tools
 <h3>Using daily</h3>
