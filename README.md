@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3>STUDYING NOW</h3>
-<p align=center>
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   </a>
@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 # Recent Activities
 <p align="center">
   <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="160px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="170px"/>
   </a>
   <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" height="160px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" height="170px"/>
   </a>
 </p>
