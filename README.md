@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Languages and Tools
-<h3>Using daily</h3>
+<h3>USING DAILY</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3>Now Studying</h3>
+<h3>STUDYING NOW</h3>
 <p align=center>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 # Recent Activities
 <p>
   <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="158px"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" />
   </a>
   <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" height="180px"/>
   </a>
 </p>
