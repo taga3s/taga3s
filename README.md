@@ -13,18 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Recent Activities
-<p>
-  <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="158px"/>
-  </a>
-  <a href="">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" />
-  </a>
-</p>
-
----
-
 # Languages and Tools
 <h3>Using daily</h3>
 <p align="center">
@@ -61,5 +49,15 @@ Here are some ideas to get you started:
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+  </a>
+</p>
+
+# Recent Activities
+<p>
+  <a href="">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="158px"/>
+  </a>
+  <a href="">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" />
   </a>
 </p>
