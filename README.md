@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br/>
+
 # Languages and Tools
 <h3>Using daily</h3>
 <p align="center">
