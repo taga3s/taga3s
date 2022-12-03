@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 
 # Recent Activities
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark" />
 </a>
 
 # My Skills
