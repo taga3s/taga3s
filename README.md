@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </p>
 
 # Recent Activities
-<p>
+<p align="center">
   <a href="">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="160px"/>
   </a>
