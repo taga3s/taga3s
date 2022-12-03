@@ -22,6 +22,7 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" />
   </a>
 </p>
+
 ---
 
 # Languages and Tools
