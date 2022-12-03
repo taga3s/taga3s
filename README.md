@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" />
 </a>
 
-# Using daily
-
+# Languages and Tools
+<h3>Using daily</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
