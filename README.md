@@ -52,12 +52,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# Recent Activities
-<p align="center">
+<!-- # Recent Activities -->
+<!-- <p align="center">
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seiya-Tagami&theme=vue-dark&show_icons=true" height="170px"/>
   </a>
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiya-Tagami&theme=vue-dark&layout=compact" height="170px"/>
   </a>
-</p>
+</p> -->
