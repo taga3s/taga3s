@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 最近の朝活 / 夜活
-- アルゴ式
-- AtCoder
+- アルゴ式 (Python)
+- AtCoder (Python, Rust)
 <!--
 **Seiya-Tagami/Seiya-Tagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
