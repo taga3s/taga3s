@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### Recent Activity
+- 2023/09 技育CAMPハッカソンvol9で、自分史作成アプリ「Recollect」をつくり、現在も継続開発中。
 - 2023/10 [推しキャラを簡易的に保存するAPI](https://github.com/Seiya-Tagami/favorite-character-management-api)をつくった。
 <!--
 **Seiya-Tagami/Seiya-Tagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
