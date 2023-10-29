@@ -1,7 +1,6 @@
 ### Hi there 👋
-### 最近の朝活 / 夜活
-- アルゴ式 (Python)
-- AtCoder (C++)
+### Recent Activity
+- 2023/10 [推しキャラを簡易的に保存するAPI](https://github.com/Seiya-Tagami/favorite-character-api)をつくった。
 <!--
 **Seiya-Tagami/Seiya-Tagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
