@@ -5,6 +5,7 @@
 - 2023/10 [推しキャラを簡易的に保存するAPI](https://github.com/Seiya-Tagami/favorite-character-management-api)をつくった。
 ### My TODO
 - Recollect-Web, Serviceの継続開発
+- ミニブログの開発
 <!--
 **Seiya-Tagami/Seiya-Tagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
