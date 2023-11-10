@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Recent Activity
 - 2023/08 Recursion Academy初心者チーム開発で、[「てとりす。」](https://github.com/teamdev-c/work-space)の開発に取り組んだ。
 - 2023/09 技育CAMPハッカソンvol9で、自分史作成アプリ「Recollect」をつくり、現在も継続開発中。
