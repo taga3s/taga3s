@@ -2,6 +2,11 @@
 - 2023/08 Recursion Academy初心者チーム開発で、[「てとりす。」](https://github.com/teamdev-c/work-space)の開発に取り組んだ。
 - 2023/09 技育CAMPハッカソンvol9で、自分史作成アプリ「Recollect」をつくり、現在も継続開発中。
 - 2023/10 [推しキャラを簡易的に保存するAPI](https://github.com/Seiya-Tagami/favorite-character-management-api)をつくった。
+
+### My gists
+最近始めました。
+https://gist.github.com/Seiya-Tagami
+
 ### My TODO
 - Recollect-Web, Serviceの継続開発
 <!--
