@@ -4,11 +4,11 @@
 - 2023/10 [推しキャラを簡易的に保存するAPI](https://github.com/Seiya-Tagami/favorite-character-management-api)をつくった。
 - 2023/12 技育CAMPアドバンスにて、約3カ月継続開発を行い、ブラッシュアップした「Recollect」の[成果発表](https://docs.google.com/presentation/d/1cBwZ-pXHmJGIHrIKgwCsSUtNJDzfKIXB/edit#slide=id.p1)を行った。
 
-### Github gists
+### My gists
 最近始めました。[Click here](https://gist.github.com/Seiya-Tagami)
 
-### Next Action
-...
+### I'm frequently using...
+[![My Skills](https://skillicons.dev/icons?i=ts,go,react,nextjs,nodejs)](https://skillicons.dev)
 <!--
 **Seiya-Tagami/Seiya-Tagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
