@@ -6,9 +6,11 @@
 
 ### My gists
 最近始めました。[Click here](https://gist.github.com/Seiya-Tagami)
+- 基本的なアルゴリズムの実装に取り組んでます。
 
-### I'm frequently using...
+### I'm using...
 [![My Skills](https://skillicons.dev/icons?i=ts,go,react,nextjs,nodejs)](https://skillicons.dev)
+
 <!--
 **Seiya-Tagami/Seiya-Tagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
