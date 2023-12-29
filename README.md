@@ -1,7 +1,6 @@
 ### Recent Activity
 - 2023/08 Recursion Academy初心者チーム開発で、[「てとりす。」](https://github.com/teamdev-c/work-space)の開発に取り組んだ。
 - 2023/09 技育CAMPハッカソンvol9で、[自分史作成サービス「Recollect」](https://github.com/Seiya-Tagami/Recollect-Web) を開発し、パーソルキャリア株式会社様から企業賞を受賞した。
-- 2023/10 [推しキャラを簡易的に保存するAPI](https://github.com/Seiya-Tagami/favorite-character-management-api)をつくった。
 - 2023/12 技育CAMPアドバンスにて、約3カ月継続開発を行い、ブラッシュアップした「Recollect」の[成果発表](https://docs.google.com/presentation/d/1cBwZ-pXHmJGIHrIKgwCsSUtNJDzfKIXB/edit#slide=id.p1)を行った。
 
 ### My gists
