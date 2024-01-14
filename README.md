@@ -1,11 +1,12 @@
 ### Recent activity
 - 2023/08 Recursion Academy初心者チーム開発で、[「てとりす。」](https://github.com/teamdev-c/work-space)の開発に取り組みました。
 - 2023/09 技育CAMPハッカソンvol9で、[自分史作成サービス「Recollect」](https://github.com/Seiya-Tagami/Recollect-Web) を開発し、パーソルキャリア株式会社様から企業賞を受賞しました。
-- 2023/12 技育CAMPアドバンスにて、約3カ月継続開発を行い、ブラッシュアップした「Recollect」の[成果発表](https://docs.google.com/presentation/d/1cBwZ-pXHmJGIHrIKgwCsSUtNJDzfKIXB/edit#slide=id.p1)を行いました。
+- 2023/12 技育CAMPアドバンスvol4にて、約3カ月継続開発を行い、ブラッシュアップした「Recollect」の[成果発表](https://docs.google.com/presentation/d/1cBwZ-pXHmJGIHrIKgwCsSUtNJDzfKIXB/edit#slide=id.p1)を行いました。
 
 ### My gists
-最近始めました。[Click here](https://gist.github.com/Seiya-Tagami)
+知識の整理に使っています。[Click here](https://gist.github.com/Seiya-Tagami)
 - 基本的なアルゴリズムの実装に取り組んでいます。
+
 
 ### I'm using...
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go)](https://skillicons.dev)
