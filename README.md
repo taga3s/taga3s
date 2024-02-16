@@ -6,7 +6,6 @@
 
 ### My gists
 知識の整理に使っています。[Click here](https://gist.github.com/Seiya-Tagami)
-- 基本的なアルゴリズムの実装に取り組んでいます。
 
 ### I'm using...
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go)](https://skillicons.dev)
