@@ -3,7 +3,7 @@
 - 2023/09 技育CAMPハッカソンvol9にて、[自分史作成サービス「Recollect」](https://github.com/Seiya-Tagami/Recollect-Web) を開発し、パーソルキャリア株式会社様から企業賞を頂きました。
 - 2023/12 技育CAMPアドバンスvol4にて、約3カ月継続開発を行い、ブラッシュアップした「Recollect」の[成果発表](https://docs.google.com/presentation/d/1cBwZ-pXHmJGIHrIKgwCsSUtNJDzfKIXB/edit#slide=id.p1)を行いました。
 - 2024/02 CA Tech Accelにて、約3カ月Goを用いたサーバサイド開発について学び、[飲食店検索CLIアプリ「pecopeco」](https://github.com/Seiya-Tagami/pecopeco)を実装し、[成果発表](https://docs.google.com/presentation/d/1ejWeAxkQPYPJqpKaBeQvfXf8qpM1uMoR_F6LdFQOW9o/edit#slide=id.p)を行いました。
-- 2024/02 技育CAMPハッカソンvol5にて、習慣化をゲーム感覚で楽しむアプリ「Rhythmate」を開発し、努力賞を頂きました。
+- 2024/02 技育CAMPハッカソンvol15にて、習慣化をゲーム感覚で楽しむアプリ「Rhythmate」を開発し、努力賞を頂きました。
 
 ### My gists
 知識の整理に使っています。[Click here](https://gist.github.com/Seiya-Tagami)
