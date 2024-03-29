@@ -1,27 +1,18 @@
-### Recent activity
-- 2023/08 Recursion Academy初心者チーム開発で、[「てとりす。」](https://github.com/teamdev-c/work-space)の開発に取り組みました。
-- 2023/09 技育CAMPハッカソンvol9にて、[自分史作成サービス「Recollect」](https://github.com/Seiya-Tagami/Recollect-Web) を開発し、パーソルキャリア株式会社様から企業賞を頂きました。
+## 🐻‍❄️About me
+```yaml
+name: Seiya Tagami
+age: 20
+belonging: School of Law, Waseda Univ.
+interests: frontend
+```
+
+## 🔭Recent activity
 - 2023/12 技育CAMPアドバンスvol4にて、約3カ月継続開発を行い、ブラッシュアップした「Recollect」の[成果発表](https://docs.google.com/presentation/d/1cBwZ-pXHmJGIHrIKgwCsSUtNJDzfKIXB/edit#slide=id.p1)を行いました。
 - 2024/02 CA Tech Accelにて、約3カ月Goを用いたサーバサイド開発について学び、[飲食店検索CLIアプリ「pecopeco」](https://github.com/Seiya-Tagami/pecopeco)を実装し、[成果発表](https://docs.google.com/presentation/d/1ejWeAxkQPYPJqpKaBeQvfXf8qpM1uMoR_F6LdFQOW9o/edit#slide=id.p)を行いました。
 - 2024/02 技育CAMPハッカソンvol15にて、習慣化をゲーム感覚で楽しむアプリ「Rhythmate」を開発し、努力賞を頂きました。（[発表資料](https://docs.google.com/presentation/d/1w_T3tXJL912OLZDxZuXU8tLzIJyrbJi7tBY_Yry6rl8/edit#slide=id.g2bc64e7b4fd_1_75)）
 
-### My gists
-知識の整理に使っています。[Click here](https://gist.github.com/Seiya-Tagami)
-
-### I'm using...
+## 🛠️I'm using...
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go)](https://skillicons.dev)
 
-<!--
-**Seiya-Tagami/Seiya-Tagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📒My gists
+知識の整理に使っています。[Click here](https://gist.github.com/Seiya-Tagami)
