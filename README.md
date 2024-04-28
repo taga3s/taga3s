@@ -2,8 +2,8 @@
 ```yaml
 name: Seiya Tagami
 age: 20
-belonging: School of Law, Waseda Univ.
-interests: frontend
+belonging: School of Law, Waseda University
+interests: Frontend
 ```
 
 ## 🔭Recent activity
