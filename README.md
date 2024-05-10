@@ -3,7 +3,7 @@
 name: Seiya Tagami
 age: 20
 belonging: School of Law, Waseda University
-interests: Frontend
+interests: Web
 ```
 
 ## 🔭Recent activity
