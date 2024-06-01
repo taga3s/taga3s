@@ -1,9 +1,11 @@
 ## 🐳About me
-```yaml
-name: Seiya Tagami
-age: 20
-belonging: School of Law, Waseda University
-interests: Web
+```ts
+export const selfIntroduction = {
+  name: "Seiya Tagami",
+  age: 20,
+  belonging: "School of Law, Waseda University",
+  interests: ["web", "cli"]
+}
 ```
 
 ## 🛠️I'm learning...
