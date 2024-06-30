@@ -9,7 +9,8 @@ export const selfIntroduction = {
 ```
 
 ## 🛠️I'm learning...
-[![My Skills](https://skillicons.dev/icons?i=go,ts,nodejs,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,nodejs,react,nextjs)](https://skillicons.dev)
 
-## 📒My gists
-[Click here](https://gist.github.com/ayanami77)
+## 📝My note
+- [Gists](https://gist.github.com/ayanami77)
+- [Cosense](https://scrapbox.io/taga3s-dev/)
