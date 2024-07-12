@@ -13,4 +13,4 @@ export const selfIntroduction = {
 
 ## 📝My note
 - [Gists](https://gist.github.com/ayanami77)
-- [Cosense](https://scrapbox.io/taga3s-dev/)
+- [Cosense](https://scrapbox.io/t33s-dev/)
