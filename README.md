@@ -8,10 +8,10 @@ export const selfIntroduction = {
 }
 ```
 
-## 🛠️I'm learning...
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,nodejs,react,nextjs)](https://skillicons.dev)
+## 🛠I'm learning...
+[![Skills](https://skillicons.dev/icons?perline=8&i=js,ts,nodejs,go,react,nextjs,githubactions)](https://skillicons.dev)
 
-## 📝My note
+## 📝Note
 - [Gists](https://gist.github.com/taga3s)
 - [Cosense](https://scrapbox.io/t33s-dev/)
 - [Qiita](https://qiita.com/t33s_dev)
