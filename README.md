@@ -9,7 +9,7 @@ export const selfIntroduction = {
 ```
 
 ## 🛠I'm learning...
-[![Skills](https://skillicons.dev/icons?perline=8&i=js,ts,nodejs,go,react,nextjs,githubactions)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?perline=8&i=js,ts,nodejs,go,react,nextjs,githubactions,aws)](https://skillicons.dev)
 
 ## 📝Note
 - [Gists](https://gist.github.com/taga3s)
