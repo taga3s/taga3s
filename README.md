@@ -4,12 +4,10 @@ export const selfIntroduction = {
   name: "taga3s",
   age: 20,
   belonging: "School of Law, Waseda University",
-  interests: ["web", "cli"]
+  interests: ["web development"]
 }
 ```
-- [Gists](https://gist.github.com/taga3s)
-- [Cosense](https://scrapbox.io/taga3s-memo/)
-- [Qiita](https://qiita.com/t33s_dev)
+- https://taga3s.dev
 
 ## 🛠I'm currently learning
 
