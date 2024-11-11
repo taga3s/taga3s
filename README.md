@@ -11,4 +11,4 @@ export const selfIntroduction = {
 
 ## 🛠I'm currently learning
 
-[![Skills](https://skillicons.dev/icons?perline=8&i=js,ts,nodejs,rust,react,nextjs,githubactions,aws)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?perline=8&i=js,ts,nodejs,rust,react,nextjs,githubactions,aws,terraform)](https://skillicons.dev)
