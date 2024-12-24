@@ -1,14 +1,13 @@
-## 🐳About me
+# 🐳 id: taga3s
+- https://taga3s.dev
+
 ```ts
 export const selfIntroduction = {
-  name: "taga3s",
-  age: 20,
+  name: "Seiya TAGAMI",
+  age: 21,
   belonging: "School of Law, Waseda University",
   interests: ["web development"]
 }
 ```
-- https://taga3s.dev
 
-## 🛠I'm currently learning
-
-[![Skills](https://skillicons.dev/icons?perline=8&i=js,ts,nodejs,rust,react,nextjs,githubactions,aws,terraform)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,deno,rust,react,nextjs,githubactions,aws,terraform)](https://skillicons.dev)
