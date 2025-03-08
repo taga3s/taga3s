@@ -6,8 +6,8 @@ export const selfIntroduction = {
   name: "Seiya TAGAMI",
   age: 21,
   belonging: "School of Law, Waseda University",
-  interests: ["web development"]
+  interests: ["web", "cdn"]
 }
 ```
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,deno,rust,react,nextjs,githubactions,aws,terraform)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,nodejs,deno,rust,githubactions,aws,terraform)](https://skillicons.dev)
