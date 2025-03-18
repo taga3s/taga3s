@@ -1,9 +1,14 @@
 ## Hello there 🐳
 ```yaml
 ---
-name: "Seiya TAGAMI"
+id: taga3s
 age: 21
-belonging: "School of Law, Waseda University"
-interests: ["web", "cdn"]
-website: "https://taga3s.dev"
+belonging: School of Law, Waseda University
+interests:
+  - Web
+  - CDN
+languages:
+  - TypeScript
+  - Rust
+website: https://taga3s.dev
 ```
