@@ -1,4 +1,4 @@
-## 🐳　Hello there
+## Hello there 🐳　
 ```yaml
 ---
 id: taga3s
@@ -14,6 +14,6 @@ languages:
 website: https://taga3s.dev
 ```
 
-## 🔧　Recent works
+## Recent works🪜
 - [taga3s/rss-generator](https://github.com/taga3s/rss-generator)
 - [taga3s/rehype-pagefind-indexing](https://github.com/taga3s/rehype-pagefind-indexing)
