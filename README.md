@@ -17,3 +17,4 @@ website: https://taga3s.dev
 ## Recent works🪜
 - [taga3s/rss-generator](https://github.com/taga3s/rss-generator)
 - [taga3s/rehype-pagefind-indexing](https://github.com/taga3s/rehype-pagefind-indexing)
+- [taga3s/highlightjs-terraform](https://github.com/taga3s/highlightjs-terraform) (maintained fork)
